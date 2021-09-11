@@ -1,0 +1,14 @@
+
+By: Vivek Kumar Yadav
+Email:- vivek3193736@gmail.com
+
+
+>> There is only one home page
+>> It's not MVC but built on an MVC-like pattern
+>> It does not currently have any database related functionalities.
+>> Some libraries have been used in this.
+		1. MDbootstrap 5
+		2. aos - animation
+		3. vanilla-tile
+
+>> To use it, you will need a local server such as XAMPP
